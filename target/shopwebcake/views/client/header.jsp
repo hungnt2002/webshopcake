@@ -94,12 +94,12 @@ pageEncoding="UTF-8"%> <%@ include file="/common/taglib.jsp"%>
               >Cửa hàng</a
             >
             <ul class="dropdown-menu">
-              <li><a href="category?categoryId=1">Bánh ngọt</a></li>
-              <li><a href="category?categoryId=2">Bánh mặn</a></li>
-              <li><a href="category?categoryId=3">Bánh trái cây</a></li>
-              <li><a href="category?categoryId=4">Bánh kem</a></li>
-              <li><a href="category?categoryId=5">Bánh pizza</a></li>
-              <li><a href="category?categoryId=6">Bánh Crepe</a></li>
+              <li><a href="category">Bánh ngọt</a></li>
+              <li><a href="category">Bánh mặn</a></li>
+              <li><a href="category">Bánh trái cây</a></li>
+              <li><a href="category">Bánh kem</a></li>
+              <li><a href="category">Bánh pizza</a></li>
+              <li><a href="category">Bánh Crepe</a></li>
             </ul>
           </li>
         </ul>

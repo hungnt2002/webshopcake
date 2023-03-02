@@ -116,7 +116,7 @@
 
 				<div class="col-lg-6 col-md-12 col-sm-12">
 					<div class="footer-top-box">
-						<h3>Chủ shop đẹp trai</h3>
+						<h3>Nhóm 9 K14DCPM</h3>
 						<p>Do it with passion or not at all .</p>
 						<ul>
 							<li><a href="https://www.facebook.com/nam970901"><i

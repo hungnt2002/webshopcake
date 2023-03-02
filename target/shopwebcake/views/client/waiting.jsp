@@ -74,7 +74,7 @@
 					<div class="row">
 						<div class="col-md-12">
 							<h1 class="m-b-20">
-								<strong>Welcome To <br> Nam CakeShop
+								<strong>Welcome To <br> Nhóm 9 CakeShop
 								</strong>
 							</h1>
 							<p class="m-b-40">
@@ -94,7 +94,7 @@
 					<div class="row">
 						<div class="col-md-12">
 							<h1 class="m-b-20">
-								<strong>Welcome To <br> Nam CakeShop
+								<strong>Welcome To <br> Nhóm 9 CakeShop
 								</strong>
 							</h1>
 							<p class="m-b-40">
@@ -114,7 +114,7 @@
 					<div class="row">
 						<div class="col-md-12">
 							<h1 class="m-b-20">
-								<strong>Welcome To <br> Nam CakeShop
+								<strong>Welcome To <br> Nhóm 9 CakeShop
 								</strong>
 							</h1>
 							<p class="m-b-40">
